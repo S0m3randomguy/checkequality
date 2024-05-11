@@ -1,5 +1,5 @@
 {
-    "name": "TrueEquality",
+    "name": "CheckEquality",
     "description": "",
     "dependencies": {
         "device": "*"
